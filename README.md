@@ -2,7 +2,7 @@
 
 <h2 id=objective>📚Sobre o Projeto</h2>
 
-Po'grama de exemplo com alguns inputs básicos
+Programa de exemplo com alguns inputs básicos
 
 <h2 id=author>⭐️ Autor</h2>
 
